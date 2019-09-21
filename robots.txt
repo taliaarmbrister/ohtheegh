@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oorapahya.thisisyourtv.co.uk/sitemap.xml
